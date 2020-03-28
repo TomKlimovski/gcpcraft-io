@@ -16,4 +16,5 @@ Intended to be a complete clone of cloudcraft.co, but for GCP.
     - 2.1. Once GCP design on Canvas is fianlised, a button-click will export the design in to Terraform code
 
 ## Tech
- - https://svelte.dev/
+ - Ripped off from here: https://stackshare.io/cloudcraft/cloudcraft
+    - https://material-ui.com/
